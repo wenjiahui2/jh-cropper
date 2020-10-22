@@ -103,7 +103,7 @@
 import { VueCropper } from "vue-cropper";
 import "./el-cropper.css";
 export default {
-  name: "jh-cropper",
+  name: "tailoring",
   // 接收的数据 带默认值
   props: {
     img: {
